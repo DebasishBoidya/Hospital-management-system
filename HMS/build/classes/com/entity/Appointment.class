@@ -1,0 +1,32 @@
+Êþº¾   = S  com/entity/Appointment  java/lang/Object id I userId fullName Ljava/lang/String; gender age 
+appoinDate email phNo diseases doctorId address status <init> ()V Code
+     LineNumberTable LocalVariableTable this Lcom/entity/Appointment; §(ILjava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;ILjava/lang/String;Ljava/lang/String;)V	    	     		  " 
+ 		  $  		  &  		  ( 
+ 		  *  		  ,  		  .  	  0  		  2  	 getId ()I	  6   setId (I)V 	getUserId 	setUserId getFullName ()Ljava/lang/String; setFullName (Ljava/lang/String;)V 	getGender 	setGender getAge setAge 
+getAppoinDate 
+setAppoinDate getEmail setEmail getPhNo setPhNo getDiseases setDiseases getDoctorId setDoctorId 
+getAddress 
+setAddress 	getStatus 	setStatus 
+SourceFile Appointment.java !                  	    
+ 	     	     	    
+ 	     	     	          	     	           3     *· ±       
+                              D*· *µ *,µ *-µ !*µ #*µ %*µ '*µ )*µ +*	µ -*
+µ /*µ 1±       6 
+      	          %  +   1 ! 7 " = # C $    z    D       D      D  	    D 
+ 	    D  	    D  	    D 
+ 	    D  	    D  	    D   	   D  	 
+   D  	   3 4     /     *´ 5¬           '              7 8     >     *µ 5±       
+    +  ,                    9 4     /     *´ ¬           /              : 8     >     *µ ±       
+    3  4                    ; <     /     *´ °           7              = >     >     *+µ ±       
+    ;  <                 	   ? <     /     *´ !°           ?              @ >     >     *+µ !±       
+    C  D                
+ 	   A <     /     *´ #°           G              B >     >     *+µ #±       
+    K  L                 	   C <     /     *´ %°           O              D >     >     *+µ %±       
+    S  T                 	   E <     /     *´ '°           W              F >     >     *+µ '±       
+    [  \                
+ 	   G <     /     *´ )°           _              H >     >     *+µ )±       
+    c  d                 	   I <     /     *´ +°           g              J >     >     *+µ +±       
+    k  l                 	   K 4     /     *´ -¬           o              L 8     >     *µ -±       
+    s  t                    M <     /     *´ /°           w              N >     >     *+µ /±       
+    {  |                 	   O <     /     *´ 1°                         P >     >     *+µ 1±       
+    ƒ  „                 	   Q    R
