@@ -1,0 +1,14 @@
+Êþº¾   = 2  com/db/DBConnect  java/lang/Object conn Ljava/sql/Connection; <init> ()V Code
+     LineNumberTable LocalVariableTable this Lcom/db/DBConnect; getConn ()Ljava/sql/Connection;  com.mysql.cj.jdbc.Driver
+    java/lang/Class   forName %(Ljava/lang/String;)Ljava/lang/Class;  $jdbc:mysql://localhost:3306/hospital  root  
+Cool00db0*
+ ! # " java/sql/DriverManager $ % 
+getConnection M(Ljava/lang/String;Ljava/lang/String;Ljava/lang/String;)Ljava/sql/Connection;	  '  
+ ) + * java/lang/Exception ,  printStackTrace e Ljava/lang/Exception; 
+StackMapTable 
+SourceFile DBConnect.java !      
+          	   /     *· 
+±            
+            	    	   m     ¸ W¸  ³ &§ K*¶ (² &°      )           
+       
+       - .   /    U )  0    1
